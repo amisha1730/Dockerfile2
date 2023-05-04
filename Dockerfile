@@ -1,4 +1,4 @@
-#Stock Manager
+#Shop front
 # Use an official OpenJDK 8 runtime as a parent image
 FROM openjdk:8-jre-alpine
 
